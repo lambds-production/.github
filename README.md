@@ -5,4 +5,5 @@ We excel in innovating software to tackle problems that others doesn't address w
 ## Socials
 
 LinkedIn: https://www.linkedin.com/company/lambds-production
+
 Github: https://github.com/lambds-production
